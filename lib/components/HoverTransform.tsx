@@ -1,6 +1,6 @@
-import { useState, useEffect, PropsWithChildren } from "react";
-import "./hoverTransform.css";
+import { PropsWithChildren, useEffect, useState } from "react";
 import { convertText } from "../utils/convertText";
+import "./hoverTransform.css";
 
 const HoverTransform = ({ children }: PropsWithChildren) => {
   const [displayText, setDisplayText] = useState(children);

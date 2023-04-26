@@ -1,1 +1,1 @@
-export { default } from "./components/HoverTransform";
+export * from "./components";
