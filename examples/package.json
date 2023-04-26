@@ -1,7 +1,7 @@
 {
   "name": "examples",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "word-buzz": "0.0.2"
+    "word-buzz": "0.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",

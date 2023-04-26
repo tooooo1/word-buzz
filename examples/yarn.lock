@@ -1522,10 +1522,10 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-word-buzz@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/word-buzz/-/word-buzz-0.0.2.tgz#f7072055b9e52be2d84d9c30026f1b36a7156617"
-  integrity sha512-OEBh8MhNdqoHX8OIALSVsZPmyfHhoUSwDdSEVi0lDRt1UqBCRznWaLs+OpGd8IbFc7O/w/SUPd3Ec60kxV259A==
+word-buzz@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/word-buzz/-/word-buzz-0.0.3.tgz#9f78f8d14a82d88f411ba6e6db8f86f2af5e074d"
+  integrity sha512-c1AYKGicJqO+lNe1rxwVM3J92oWgLUbMET6OBUX+mtcLz/64TXo4Q63iFl7+EfzOYBtLHRTB5En660AOopAtPA==
   dependencies:
     react "^18.2.0"
     react-dom "^18.2.0"
