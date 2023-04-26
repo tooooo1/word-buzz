@@ -1,2 +1,21 @@
-# word-buzz
-다채로운 텍스트 변환과 스타일링을 위한 워드버즈
+## Installation
+
+```shell
+yarn add word-buzz
+```
+
+## Usage
+
+```tsx
+import { HoverTransform } from "word-buzz";
+
+function App() {
+  return <HoverTransform>input text</HoverTransform>;
+}
+
+export default App;
+```
+
+# License
+
+MIT © word-buzz. See [LICENSE](./LICENSE) for details.
