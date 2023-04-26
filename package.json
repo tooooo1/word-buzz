@@ -15,6 +15,15 @@
       "default": "./dist/index.js"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tooooo1/word-buzz"
+  },
+  "bugs": {
+    "url": "https://github.com/tooooo1/word-buzz/issues",
+    "email": "wer4272@nate.com"
+  },
+  "homepage": "https://github.com/tooooo1/word-buzz",
   "scripts": {
     "dev": "vite",
     "build": "yarn clean && vite build && tsc --emitDeclarationOnly",
